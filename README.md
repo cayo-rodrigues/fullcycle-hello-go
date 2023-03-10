@@ -8,4 +8,5 @@ docker run --rm cayy/fullcycle
 
 Resultado:
 
-![image](https://user-images.githubusercontent.com/87717182/224346166-d60ff50f-5dc0-465d-8ab6-6f7da9524990.png)
+![image](https://user-images.githubusercontent.com/87717182/224346477-ddc6acb4-86c4-4f43-b8cc-34f30ac25b86.png)
+
